@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @m0wmt
 - 👀 I’m interested in writing firmware/software
-- 🌱 I’m currently learning how to develop Raspberry Pi Pico
+- 🌱 I’m currently learning how to develop Raspberry Pi Pico W and ESP32
 - 💞️ I’m looking to collaborate on anything software related
 - 📫 How to reach me ...
 
